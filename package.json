@@ -1,6 +1,6 @@
 {
-  "homepage": ".",
-  "name": "pass-in-web",
+  "homepage": "github-page/",
+  "name": "github-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
